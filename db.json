@@ -11,12 +11,6 @@
       "San Jose",
       "San Francisco"
     ],
-    "South Carolina": [
-      "Columbia",
-      "Charleston",
-      "North Charleston",
-      "Mount Pleasant",
-    ],
     "New Hampshire": [
       "Manchester",
       "Nashua",
@@ -33,23 +27,5 @@
       "Missoula",
       "Great Falls",
       "Bozeman"
-    ],
-    "Delaware": [
-      "Wilmington",
-      "Dover"
-    ],
-    "Maine": [
-      "Portland"
-    ],
-    "Wyoming": [
-      "Cheyenne",
-      "Casper"
-    ],
-    "West Virginia": [
-      "Charleston",
-      "Huntington"
-    ],
-    "Vermont": [
-      "Burlington"
     ]
   }
